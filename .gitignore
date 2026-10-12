@@ -1,0 +1,14 @@
+# OS / editor artefacts
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+.vscode/
+
+# Python (only used locally to generate resume.pdf)
+__pycache__/
+*.pyc
+
+# Node (only used locally for `npx serve`)
+node_modules/
